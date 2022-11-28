@@ -1,0 +1,141 @@
+/* font-family: 'Sofia', cursive;  font-family: 'Sacramento', cursive;
+font-family: 'Montserrat', sans-serif;  font-family: 'Merriweather', serif;*/
+/* colors - #134E5E */
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    font-size: 100%;
+}
+
+h1 {
+    font-size: 3.75rem;
+    font-family: 'Sofia', cursive;
+    color: #1d6c81;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.3rem;
+    color: #1d6c81;
+    font-weight: 900;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #1d6c81;
+}
+
+a {
+    color: #1d6c81;
+}
+
+a:hover {
+  color: #F6F6F6;
+}
+
+hr {
+    border: dotted #B5D5EB 7px;
+    border-bottom: none;
+    width: 4%;
+    margin: 90px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+    background-color: #BAD7DF;
+    position: relative;
+    padding-top: 120px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.hello-text {
+  margin: 50px auto;
+  width: 25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 40px auto;
+  text-align: left;
+  line-height: 2;
+  overflow: auto;
+}
+
+.web-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.modeling-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-text {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #8bbbc7;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #5a858f;
+  text-decoration: none;
+}
+
+.middle-container {
+  margin-top: 80px;
+  margin-bottom: 90px;
+}
+
+.bottom-container {
+  background-color: #94c5d2;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.footer-link {
+  font-size: 0.9rem;
+  margin: 20px;
+}
+
+.company-text {
+  color: #F6F6F6;
+  font-size: 0.7rem;
+  margin: 30px;
+}
